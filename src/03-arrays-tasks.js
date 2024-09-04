@@ -499,7 +499,6 @@ function getIntervalArray(start, end) {
     element += 1;
     i += 1;
   } while (element < end + 1);
-  console.log(arr);
   return arr;
 }
 

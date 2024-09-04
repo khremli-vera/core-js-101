@@ -539,7 +539,6 @@ function getMatrixProduct(m1, m2) {
  *
  */
 function evaluateTicTacToePosition(position) {
-  console.log(position);
   const winningCombinations = [
     [0, 1, 2],
     [3, 4, 5],
